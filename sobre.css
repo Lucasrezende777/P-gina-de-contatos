@@ -3,18 +3,18 @@ body {
     background: linear-gradient(to right, #232526, #2d2d2d);
 }
 
-.Titulo{
+.titulocontato{
     color: rgb(255, 255, 255);
     font-size: 36px;
     font-weight: bold;
 }
-.secundaria {
+.secundariacontato {
     color: rgb(0, 255, 64);
 }
 
-h1{
+.nomepaginadecontato{
     color: rgb(255, 255, 255);
-    font-size: 36px;
+    font-size: 30px;
     font-weight: bold;
 }
 
